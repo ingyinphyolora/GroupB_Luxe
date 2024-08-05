@@ -1,0 +1,45 @@
+﻿@model IEnumerable<INFT3050.Models.ContactMessage>
+
+@{
+    ViewData["Title"] = "Contact Messages";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main class="container my-5">
+    <section class="mb-4">
+        <h1 class="mb-3">Customer Submitted Messages</h1>
+        <p class="lead">Here are the messages submitted via the contact form.</p>
+    </section>
+    <section>
+        @if (Model.Any())
+        {
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped">
+                    <thead style="background: linear-gradient(45deg, #4B79A1, #283E51);">
+                        <tr style="color: white;">
+                            <th scope="col">Name</th>
+                            <th scope="col">Email</th>
+                            <th scope="col">Message</th>
+                            <th scope="col">Submitted At</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var message in Model)
+                        {
+                            <tr>
+                                <td>@message.Name</td>
+                                <td>@message.Email</td>
+                                <td>@message.Message</td>
+                                <td>@message.SubmittedAt.ToString("g")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+        else
+        {
+            <p class="alert alert-warning">No messages have been submitted yet.</p>
+        }
+    </section>
+</main>

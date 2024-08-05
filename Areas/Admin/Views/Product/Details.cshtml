@@ -1,0 +1,54 @@
+﻿@model INFT3050.Models.Product
+
+@{
+    ViewData["Title"] = @Model.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<body>
+    <div class="container mt-5">
+        <div class="card">
+            <div class="card-header text-white" style="background: linear-gradient(45deg, #4B79A1, #283E51);">
+                <h1 class="card-title text-white">@Model.Name</h1>
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">Product Details</h4>
+                <hr />
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="font-weight-bold">Name</label>
+                            <p class="form-control-plaintext">@Model.Name</p>
+                        </div>
+                        <div class="form-group">
+                            <label class="font-weight-bold">Price</label>
+                            <p class="form-control-plaintext">$@Model.Price</p>
+                        </div>
+                        <div class="form-group">
+                            <label class="font-weight-bold">Stock</label>
+                            <p class="form-control-plaintext">@Model.Stock</p>
+                        </div>
+                        <div class="form-group">
+                            <label class="font-weight-bold">Status</label>
+                            <p class="form-control-plaintext">@Model.Status</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="font-weight-bold">Category</label>
+                            <p class="form-control-plaintext">@Model.Category.Name</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="font-weight-bold">Image</label>
+                    <img src="~/product/@Model.ImagePath" width="200" height="200" alt="@Model.Name" class="img-fluid rounded" />
+                </div>
+            </div>
+            <div class="card-footer text-center">
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+
+</body>
