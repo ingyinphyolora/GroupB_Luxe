@@ -1,0 +1,80 @@
+﻿@model INFT3050.ViewModel.UserVM
+@{
+    ViewData["Title"] = "Index";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxe Furniture</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <partial name="_Nav" />
+
+    <main class="container my-5">
+        @if (Model != null)
+        {
+            <div class="card">
+                <div class="card-header">
+                    <h1 class="card-title">Account Details</h1>
+                </div>
+                <div class="card-body">
+                    <p class="card-text"><strong>Name:</strong> @Model.Name</p>
+                    <p class="card-text"><strong>Email:</strong> @Model.Email</p>
+                    <!-- Other HTML content -->
+                </div>
+                <div class="card-footer text-muted">
+                    <a class="btn btn-primary" asp-controller="Account" asp-action="Logout">Logout</a>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-warning" role="alert">
+                No Account Login
+            </div>
+            <a class="btn btn-primary" asp-action="Login" asp-controller="Account">Login Now</a>
+        }
+        <hr />
+    </main>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-section">
+                <h4>JOIN OUR MAILING LIST</h4>
+                <form>
+                    <input type="email" placeholder="Email address">
+                    <button type="submit">Submit</button>
+                </form>
+                <p>Sign up to receive product updates and special offers from us</p>
+            </div>
+            <div class="footer-section">
+                <h4>HOW FURNITURE</h4>
+                <p>A master piece of furniture will be a part of your life.</p>
+                <p>A treasure to next generation.</p>
+                <p>It's a choice for decade, or even a century.</p>
+            </div>
+            <div class="footer-section">
+                <h4>CONTACT US</h4>
+                <p>Email: contact@luxefurniture.com</p>
+                <p>Phone: (123) 456-7890</p>
+                <p>Address: 123 Luxe Street, Furniture City, FC 12345</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Luxe Furniture</p>
+            <div class="payment-methods">
+                <img src="images/american_exp.png" alt="American Express">
+                <img src="images/google_pay.png" alt="Google Pay">
+                <img src="images/apple_pay.png" alt="Apple Pay">
+                <img src="images/paypal.png" alt="PayPal">
+                <img src="images/shop.png" alt="Shopify">
+                <img src="images/visa.png" alt="Visa">
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

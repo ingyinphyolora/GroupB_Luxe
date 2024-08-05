@@ -1,0 +1,212 @@
+﻿@model List<INFT3050.ViewModel.ProductCategoryVM>
+
+
+<head>
+    <title>Checkout Page</title>
+</head>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxe Furniture</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-pzjw8f+ua7Kw1TIqG6kG6h60OzNS4zG6lkpP1EwL9nwsuKfF4rk5W1q4oVOsiwx" crossorigin="anonymous"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        header {
+            text-align: center;
+            background-color: #be7a3e;
+            color: #fff;
+            padding: 10px 0;
+        }
+
+            header h1 {
+                margin: 0;
+                font-size: 24px;
+            }
+
+        main {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            gap: 20px;
+        }
+
+        .order-summary, .payment-form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        .order-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+
+        .total-price {
+            font-size: 18px;
+            font-weight: bold;
+            text-align: right;
+            margin-top: 10px;
+        }
+
+        .payment-method {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+            .payment-method label {
+                display: flex;
+                align-items: center;
+                cursor: pointer;
+            }
+
+            .payment-method input {
+                margin-right: 5px;
+            }
+
+        .credit-card-info label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .credit-card-info input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+            .credit-card-info input[type="checkbox"] {
+                width: auto;
+                margin-right: 10px;
+            }
+
+        .credit-card-info span {
+            font-size: 14px;
+            color: #555;
+        }
+
+        .btn-pay {
+            width: 100%;
+            padding: 15px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+            .btn-pay:hover {
+                background-color: #be7a3e;
+            }
+    </style>
+</head>
+<partial name="_Nav" />
+<body class="payment-portal">
+    <main>
+        <div class="order-summary">
+            <h2>Order Summary</h2>
+            <div id="order-summary-list"></div>
+            <p id="order-total-price" class="total-price"></p>
+        </div>
+        <div class="payment-form">
+            <h2>Payment</h2>
+            <form id="payment-form">
+                <div class="payment-method">
+                    <label>
+                        <input type="radio" name="payment-method" value="credit-card" checked>
+                        <span>Credit card</span>
+                    </label>
+                    <label>
+                        <input type="radio" name="payment-method" value="paypal">
+                        <span>PayPal</span>
+                    </label>
+                </div>
+                <div class="credit-card-info">
+                    <label for="card-name">Cardholder Name</label>
+                    <input type="text" id="card-name" name="card-name" required>
+                    <label for="card-number">Card Number</label>
+                    <input type="text" id="card-number" name="card-number" placeholder="1234 5678 9123 4567" maxlength="19" required>
+                    <label for="expiry-date">Expiry Date</label>
+                    <input type="text" id="expiry-date" name="expiry-date" placeholder="MM/YY" required>
+                    <label for="cvv">CVV</label>
+                    <input type="text" id="cvv" name="cvv" maxlength="3" required>
+                    <label>
+                        <input type="checkbox" name="billing-address" checked>
+                        <span>Use shipping address as billing address</span>
+                    </label>
+                </div>
+                <button asp-action="Confirmation" asp-action="Checkout" class="btn-pay">Pay Now</button>
+            </form>
+        </div>
+    </main>
+
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-section">
+                <h4>JOIN OUR MAILING LIST</h4>
+                <form>
+                    <input type="email" placeholder="Email address">
+                    <button type="submit">Submit</button>
+                </form>
+                <p>Sign up to receive product updates and special offers from us</p>
+            </div>
+            <div class="footer-section">
+                <h4>LUXE FURNITURE</h4>
+                <p>A master piece of furniture will be a part of your life.</p>
+                <p>A treasure to next generation.</p>
+                <p>It's a choice for decade, or even a century.</p>
+            </div>
+            <div class="footer-section">
+                <h4>CONTACT US</h4>
+                <p>Email: contact@luxefurniture.com</p>
+                <p>Phone: (123) 456-7890</p>
+                <p>Address: 123 Luxe Street, Furniture City, FC 12345</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Luxe Furniture</p>
+            <div class="payment-methods">
+                <img src="~/images/american_exp.png" alt="American Express">
+                <img src="~/images/google_pay.png" alt="Google Pay">
+                <img src="~/images/apple_pay.png" alt="Apple Pay">
+                <img src="~/images/paypal.png" alt="PayPal">
+                <img src="~/images/shop.png" alt="Shopify">
+                <img src="~/images/visa.png" alt="Visa">
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>

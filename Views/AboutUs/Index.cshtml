@@ -1,0 +1,87 @@
+﻿<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us -  Luxe</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+            <style>
+                body, html {
+                    margin: 0;
+                    padding: 0;
+                    font-family: Arial, Helvetica, sans-serif;
+                    box-sizing: border-box;
+                    background-color: #f5f5f5;
+                }
+        
+                .container {
+                    max-width: 1100px;
+                    margin: 0 auto;
+                    padding: 20px;
+                }
+        
+                .section {
+                    margin-bottom: 40px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    align-items: center;
+                }
+        
+                .section .text {
+                    flex: 1;
+                    padding: 20px;
+                }
+        
+                .section .image {
+                    flex: 1;
+                    padding: 20px;
+                }
+        
+                .section .image img {
+                    width: 100%;
+                    height: auto;
+                    border-radius: 10px;
+                }
+        
+                .section h2 {
+                    font-size: 24px;
+                    margin-bottom: 10px;
+                }
+        
+                .section p {
+                    font-size: 16px;
+                    line-height: 1.5;
+                }
+            </style>
+</head>
+
+<body>
+<partial name="_Nav" />
+    <div class="container">
+        <div class="section">
+            <div class="text">
+                <h2>About Us</h2>
+                <p>Our journey began with a passion for crafting exquisite furniture that stands the test of time. From humble beginnings in a small workshop, we have grown into a renowned brand known for our dedication to quality and craftsmanship. Each piece we create reflects our commitment to excellence and our love for the art of furniture making.</p>
+            </div>
+            <div class="image">
+                <img src="~/images/floating.jpg" alt="Furniture display">
+            </div>
+        </div>
+        <div class="section">
+            <div class="image">
+                <img src="~/images/holly_wooden.jpeg" alt="Wood materials">
+            </div>
+            <div class="text">
+                <p>We source only the finest materials for our creations. Our selection process is meticulous, ensuring that we use the highest quality woods and sustainable materials. This not only guarantees the durability and beauty of our furniture but also reflects our responsibility towards the environment. Each material is chosen for its unique character and strength, contributing to the distinctiveness of every piece.</p>
+            </div>
+        </div>
+        <div class="section">
+            <div class="text">
+                <p>Our team of skilled artisans brings decades of experience and a deep understanding of traditional woodworking techniques. With precision and care, they transform raw materials into masterpieces. Their dedication to perfection and attention to detail are evident in every piece of furniture we produce. Our people are the heart of our company, infusing each creation with passion and expertise.</p>
+            </div>
+            <div class="image">
+                <img src="~/images/veronica.jpeg" alt="Artisan at work">
+            </div>
+        </div>
+    </div>
+</body>
+<partial name="_Footer" />

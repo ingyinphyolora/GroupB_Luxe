@@ -1,0 +1,9 @@
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\INFT3050\obj\Release\net8.0\INFT3050.csproj.AssemblyReference.cache
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\INFT3050\obj\Release\net8.0\INFT3050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\INFT3050\obj\Release\net8.0\INFT3050.AssemblyInfoInputs.cache
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\INFT3050\obj\Release\net8.0\INFT3050.AssemblyInfo.cs
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\INFT3050\obj\Release\net8.0\INFT3050.csproj.CoreCompileInputs.cache
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\INFT3050\obj\Release\net8.0\INFT3050.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\INFT3050\obj\Release\net8.0\INFT3050.RazorAssemblyInfo.cache
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\INFT3050\obj\Release\net8.0\INFT3050.RazorAssemblyInfo.cs
+C:\Users\leear.ARTHHUR\OneDrive\Desktop\INFT3050\obj\Release\net8.0\INFT3050.sourcelink.json

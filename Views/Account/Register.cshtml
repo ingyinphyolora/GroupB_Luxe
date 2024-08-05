@@ -1,0 +1,212 @@
+﻿@using INFT3050.ViewModel;
+@model RegisterVM;
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<style>
+    .text-danger {
+        color: #d9534f;
+        margin-left: 58px;
+        font-size: 14px;
+    }
+
+    body, html {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        box-sizing: border-box;
+        background-color: #e0f7ff;
+    }
+
+    .container-fluid {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 15px;
+    }
+
+    .main {
+        padding: 15px;
+    }
+
+    .login-container {
+        background-color: #FFF;
+        margin: 40px auto;
+        border-radius: 25px;
+        overflow: hidden;
+        position: relative;
+        box-shadow: 0px 0px 72px -10px rgba(0, 0, 0, 0.44);
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .login-container .icon {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .login-container .icon .img-box {
+        background: linear-gradient(0.75turn, #B3E5FC, #ffffff);
+        border-top-right-radius: 25px;
+        border-bottom-right-radius: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex: 1;
+        padding: 15px;
+    }
+
+    .login-container .icon .img-box img {
+        width: 100%;
+        height: auto;
+        border-bottom-left-radius: 25px;
+    }
+
+    .log {
+        padding: 40px;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .roboto-serif-heading {
+        font-family: 'Roboto Serif', Arial, Helvetica, sans-serif;
+        font-weight: 800;
+        font-size: 48px;
+        font-style: normal;
+        margin-bottom: 10px;
+        text-align: center;
+        color: #0288D1;
+    }
+
+    .text-box-cont {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .input-group {
+        margin-bottom: 20px;
+        width: 100%;
+        position: relative;
+    }
+
+    .input-group input {
+        width: 300px;
+        margin-left: 15px;
+        padding: 12px 15px;
+        border-radius: 30px;
+        border: 1px solid #ccc;
+        transition: border-color 0.3s, box-shadow 0.3s;
+        font-size: 16px;
+        outline: none;
+    }
+
+    .input-group input:focus {
+        border-color: #0288D1;
+        box-shadow: 0 0 8px rgba(2, 136, 209, 0.795);
+    }
+
+    .input-group label {
+        display: block;
+        margin-left: 25px;
+        margin-bottom: 5px;
+        font-size: 14px;
+        color: #555;
+    }
+
+    .input-group .btn {
+        display: block;
+        margin: 0 auto;
+        padding: 10px 30px;
+        border-radius: 50px;
+        background-color: #B3E5FC;
+        font-weight: 600;
+        font-size: 20px;
+        text-align: center;
+        cursor: pointer;
+        border: none;
+        color: #fff;
+        transition: background-color 0.3s, box-shadow 0.3s;
+    }
+
+    .input-group .btn:hover {
+        background-color: #0288D1;
+        box-shadow: 0 0 8px rgba(2, 136, 209, 0.3);
+    }
+
+    .no-acc {
+        margin-top: 10px;
+        font-size: 0.9rem;
+        text-align: center;
+    }
+
+    .no-acc span {
+        color: #0288D1;
+        font-weight: 600;
+        margin-left: 5px;
+        cursor: pointer;
+    }
+</style>
+
+<body>
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row main">
+                <div class="login-container">
+                    <div class="icon">
+                        <div class="img-box">
+                            <img src="~/images/image.png" alt="">
+                        </div>
+                        <div class="log">
+                            <div class="login-box">
+                                <h3 class="roboto-serif-heading">Register</h3>
+                                <form asp-action="Register" method="post">
+                                    <div asp-validation-summary="ModelOnly"></div>
+                                    <div class="text-box-cont">
+                                        <div class="input-group">
+                                            <label asp-for="Name" class="control-label"></label>
+                                            <input asp-for="Name" class="form-control" />
+                                            <span asp-validation-for="Name" class="text-danger"></span>
+                                        </div>
+                                        <div class="input-group">
+                                            <label asp-for="Email" class="control-label"></label>
+                                            <input asp-for="Email" class="form-control" />
+                                            <span asp-validation-for="Email" class="text-danger"></span>
+                                        </div>
+                                        <div class="input-group">
+                                            <label asp-for="NewPassword" class="control-label"></label>
+                                            <input asp-for="NewPassword" class="form-control" />
+                                            <span asp-validation-for="NewPassword" class="text-danger"></span>
+                                        </div>
+                                        <div class="input-group">
+                                            <label asp-for="ConfirmPassword" class="control-label"></label>
+                                            <input asp-for="ConfirmPassword" class="form-control" />
+                                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <a asp-action="Login" class="text-decoration-none float-start mt-2">Have account?</a>
+                                        </div>
+                                        <div class="col-4">
+                                            <input type="submit" value="Register" class="btn btn-primary btn-sm float-end" />
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

@@ -1,0 +1,1313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\4seater.jpeg",
+      "PackagePath": "staticwebassets\\images\\4seater.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\CilliaMirror3.jpeg",
+      "PackagePath": "staticwebassets\\images\\CilliaMirror3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\EMANUELA.jpeg",
+      "PackagePath": "staticwebassets\\images\\EMANUELA.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\NewArrival1.png",
+      "PackagePath": "staticwebassets\\images\\NewArrival1.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\NewArrival2.png",
+      "PackagePath": "staticwebassets\\images\\NewArrival2.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\NewArrival3.png",
+      "PackagePath": "staticwebassets\\images\\NewArrival3.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\Popular1.png",
+      "PackagePath": "staticwebassets\\images\\Popular1.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\Popular2.png",
+      "PackagePath": "staticwebassets\\images\\Popular2.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\Popular3.png",
+      "PackagePath": "staticwebassets\\images\\Popular3.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\agile.jpeg",
+      "PackagePath": "staticwebassets\\images\\agile.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\alaska.jpeg",
+      "PackagePath": "staticwebassets\\images\\alaska.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\alberi.jpeg",
+      "PackagePath": "staticwebassets\\images\\alberi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\alex_dining.jpeg",
+      "PackagePath": "staticwebassets\\images\\alex_dining.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\alhambra.jpeg",
+      "PackagePath": "staticwebassets\\images\\alhambra.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\american_exp.png",
+      "PackagePath": "staticwebassets\\images\\american_exp.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\announcement1.png",
+      "PackagePath": "staticwebassets\\images\\announcement1.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\announcement2.jpg",
+      "PackagePath": "staticwebassets\\images\\announcement2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\announcementfinal.png",
+      "PackagePath": "staticwebassets\\images\\announcementfinal.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\antonella.jpeg",
+      "PackagePath": "staticwebassets\\images\\antonella.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\apple_pay.png",
+      "PackagePath": "staticwebassets\\images\\apple_pay.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\arianna.jpeg",
+      "PackagePath": "staticwebassets\\images\\arianna.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\bedroom.jpeg",
+      "PackagePath": "staticwebassets\\images\\bedroom.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\beige_dining.jpeg",
+      "PackagePath": "staticwebassets\\images\\beige_dining.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\black_glass.jpeg",
+      "PackagePath": "staticwebassets\\images\\black_glass.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\bookshelf.jpeg",
+      "PackagePath": "staticwebassets\\images\\bookshelf.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\bronte.jpeg",
+      "PackagePath": "staticwebassets\\images\\bronte.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\cabinet_diningroom.jpeg",
+      "PackagePath": "staticwebassets\\images\\cabinet_diningroom.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\cadiz.jpeg",
+      "PackagePath": "staticwebassets\\images\\cadiz.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\carlsten.jpeg",
+      "PackagePath": "staticwebassets\\images\\carlsten.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\carol_marble.jpeg",
+      "PackagePath": "staticwebassets\\images\\carol_marble.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\cart-icon.jpg",
+      "PackagePath": "staticwebassets\\images\\cart-icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\cartlogo.jpg",
+      "PackagePath": "staticwebassets\\images\\cartlogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\cindy.jpeg",
+      "PackagePath": "staticwebassets\\images\\cindy.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\circletable.jpeg",
+      "PackagePath": "staticwebassets\\images\\circletable.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\clarke_dining.jpeg",
+      "PackagePath": "staticwebassets\\images\\clarke_dining.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\clothesrack.jpg",
+      "PackagePath": "staticwebassets\\images\\clothesrack.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\coca.jpeg",
+      "PackagePath": "staticwebassets\\images\\coca.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\coffeetable.jpeg",
+      "PackagePath": "staticwebassets\\images\\coffeetable.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\collyer.jpeg",
+      "PackagePath": "staticwebassets\\images\\collyer.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\connor.jpeg",
+      "PackagePath": "staticwebassets\\images\\connor.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\dahlia.jpeg",
+      "PackagePath": "staticwebassets\\images\\dahlia.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\dante_wood.jpeg",
+      "PackagePath": "staticwebassets\\images\\dante_wood.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\dax_stool.jpeg",
+      "PackagePath": "staticwebassets\\images\\dax_stool.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\denise.jpeg",
+      "PackagePath": "staticwebassets\\images\\denise.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\dining-room.jpg",
+      "PackagePath": "staticwebassets\\images\\dining-room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\dining_room.jpeg",
+      "PackagePath": "staticwebassets\\images\\dining_room.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\dining_wallapaper.jpg",
+      "PackagePath": "staticwebassets\\images\\dining_wallapaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\diningroom.jpeg",
+      "PackagePath": "staticwebassets\\images\\diningroom.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\elisa.jpeg",
+      "PackagePath": "staticwebassets\\images\\elisa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\english.jpeg",
+      "PackagePath": "staticwebassets\\images\\english.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\fabric.jpeg",
+      "PackagePath": "staticwebassets\\images\\fabric.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\facebook-icon.png",
+      "PackagePath": "staticwebassets\\images\\facebook-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\floating.jpg",
+      "PackagePath": "staticwebassets\\images\\floating.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\gabriela.jpeg",
+      "PackagePath": "staticwebassets\\images\\gabriela.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\google_pay.png",
+      "PackagePath": "staticwebassets\\images\\google_pay.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\headrest_sofa.jpeg",
+      "PackagePath": "staticwebassets\\images\\headrest_sofa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\helena_bedside.jpeg",
+      "PackagePath": "staticwebassets\\images\\helena_bedside.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\hero_bg.jpeg",
+      "PackagePath": "staticwebassets\\images\\hero_bg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\holly_wooden.jpeg",
+      "PackagePath": "staticwebassets\\images\\holly_wooden.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\image.jpg",
+      "PackagePath": "staticwebassets\\images\\image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\image.png",
+      "PackagePath": "staticwebassets\\images\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\instagram.icon.png",
+      "PackagePath": "staticwebassets\\images\\instagram.icon.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\jim_wooden.jpeg",
+      "PackagePath": "staticwebassets\\images\\jim_wooden.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\karly_dining.jpeg",
+      "PackagePath": "staticwebassets\\images\\karly_dining.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\karyan.jpeg",
+      "PackagePath": "staticwebassets\\images\\karyan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\kawung_mirror_1.jpeg",
+      "PackagePath": "staticwebassets\\images\\kawung_mirror_1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\lake_mirror.jpeg",
+      "PackagePath": "staticwebassets\\images\\lake_mirror.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\large_arched.jpeg",
+      "PackagePath": "staticwebassets\\images\\large_arched.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\lily.jpeg",
+      "PackagePath": "staticwebassets\\images\\lily.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\limba_diningroom.jpeg",
+      "PackagePath": "staticwebassets\\images\\limba_diningroom.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\linkedin-icon.png",
+      "PackagePath": "staticwebassets\\images\\linkedin-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\living_room.jpeg",
+      "PackagePath": "staticwebassets\\images\\living_room.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\livingroom_shelves.jpeg",
+      "PackagePath": "staticwebassets\\images\\livingroom_shelves.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\loretta.jpeg",
+      "PackagePath": "staticwebassets\\images\\loretta.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\love_seat.jpeg",
+      "PackagePath": "staticwebassets\\images\\love_seat.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\luxe.png",
+      "PackagePath": "staticwebassets\\images\\luxe.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\luxe_logo.png",
+      "PackagePath": "staticwebassets\\images\\luxe_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\maddison_dining_chairs.jpeg",
+      "PackagePath": "staticwebassets\\images\\maddison_dining_chairs.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\main_bedsidetables.jpeg",
+      "PackagePath": "staticwebassets\\images\\main_bedsidetables.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\main_dining_chairs.jpeg",
+      "PackagePath": "staticwebassets\\images\\main_dining_chairs.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\mansel.jpeg",
+      "PackagePath": "staticwebassets\\images\\mansel.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\manuela.jpeg",
+      "PackagePath": "staticwebassets\\images\\manuela.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\mirror.png",
+      "PackagePath": "staticwebassets\\images\\mirror.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\modular.jpeg",
+      "PackagePath": "staticwebassets\\images\\modular.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\morpheus.jpeg",
+      "PackagePath": "staticwebassets\\images\\morpheus.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\myleen.jpeg",
+      "PackagePath": "staticwebassets\\images\\myleen.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\neilan.jpeg",
+      "PackagePath": "staticwebassets\\images\\neilan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\ogdon.jpeg",
+      "PackagePath": "staticwebassets\\images\\ogdon.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\orbet.jpeg",
+      "PackagePath": "staticwebassets\\images\\orbet.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\paisley.jpeg",
+      "PackagePath": "staticwebassets\\images\\paisley.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\images\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\phone.png",
+      "PackagePath": "staticwebassets\\images\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\profilelogo.jpg",
+      "PackagePath": "staticwebassets\\images\\profilelogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\rack.jpeg",
+      "PackagePath": "staticwebassets\\images\\rack.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\reclining_sofa.jpg",
+      "PackagePath": "staticwebassets\\images\\reclining_sofa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\reinhold.jpeg",
+      "PackagePath": "staticwebassets\\images\\reinhold.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\roberto.jpeg",
+      "PackagePath": "staticwebassets\\images\\roberto.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\rocco.jpeg",
+      "PackagePath": "staticwebassets\\images\\rocco.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\round.jpg",
+      "PackagePath": "staticwebassets\\images\\round.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\round_dining_table.jpeg",
+      "PackagePath": "staticwebassets\\images\\round_dining_table.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\rue_stool.jpeg",
+      "PackagePath": "staticwebassets\\images\\rue_stool.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\ryland.jpeg",
+      "PackagePath": "staticwebassets\\images\\ryland.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\salamanca.jpeg",
+      "PackagePath": "staticwebassets\\images\\salamanca.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\santorini.jpeg",
+      "PackagePath": "staticwebassets\\images\\santorini.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\search.png",
+      "PackagePath": "staticwebassets\\images\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\seb_side_console.jpeg",
+      "PackagePath": "staticwebassets\\images\\seb_side_console.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\sectional_sofa.jpeg",
+      "PackagePath": "staticwebassets\\images\\sectional_sofa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\seifred.jpeg",
+      "PackagePath": "staticwebassets\\images\\seifred.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\sergio_study.jpeg",
+      "PackagePath": "staticwebassets\\images\\sergio_study.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\seville.jpeg",
+      "PackagePath": "staticwebassets\\images\\seville.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\seville_sideboard.jpeg",
+      "PackagePath": "staticwebassets\\images\\seville_sideboard.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\shop.png",
+      "PackagePath": "staticwebassets\\images\\shop.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\showroom.jpg",
+      "PackagePath": "staticwebassets\\images\\showroom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\sloane_shelf.jpeg",
+      "PackagePath": "staticwebassets\\images\\sloane_shelf.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\sofa.jpg",
+      "PackagePath": "staticwebassets\\images\\sofa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\sofaheadrest.jpeg",
+      "PackagePath": "staticwebassets\\images\\sofaheadrest.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\standing_mirror.jpeg",
+      "PackagePath": "staticwebassets\\images\\standing_mirror.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\studydesk.jpeg",
+      "PackagePath": "staticwebassets\\images\\studydesk.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\suar_wood.jpeg",
+      "PackagePath": "staticwebassets\\images\\suar_wood.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\susanna.jpeg",
+      "PackagePath": "staticwebassets\\images\\susanna.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\tbl.jpeg",
+      "PackagePath": "staticwebassets\\images\\tbl.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\toledo.jpeg",
+      "PackagePath": "staticwebassets\\images\\toledo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\tuxedo.jpg",
+      "PackagePath": "staticwebassets\\images\\tuxedo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\tv.jpeg",
+      "PackagePath": "staticwebassets\\images\\tv.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\u_coffee.png",
+      "PackagePath": "staticwebassets\\images\\u_coffee.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\user.png",
+      "PackagePath": "staticwebassets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\veronica.jpeg",
+      "PackagePath": "staticwebassets\\images\\veronica.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\vezzo.jpeg",
+      "PackagePath": "staticwebassets\\images\\vezzo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\vimle_sofa.jpeg",
+      "PackagePath": "staticwebassets\\images\\vimle_sofa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\visa.png",
+      "PackagePath": "staticwebassets\\images\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\white_floating.jpeg",
+      "PackagePath": "staticwebassets\\images\\white_floating.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\white_oak_led.jpeg",
+      "PackagePath": "staticwebassets\\images\\white_oak_led.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\ygemor_floating.jpg",
+      "PackagePath": "staticwebassets\\images\\ygemor_floating.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\images\\youtube-icon.png",
+      "PackagePath": "staticwebassets\\images\\youtube-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709145147999.png",
+      "PackagePath": "staticwebassets\\product\\20240709145147999.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709151033281.png",
+      "PackagePath": "staticwebassets\\product\\20240709151033281.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709151056219.png",
+      "PackagePath": "staticwebassets\\product\\20240709151056219.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709151312098.png",
+      "PackagePath": "staticwebassets\\product\\20240709151312098.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709151325220.png",
+      "PackagePath": "staticwebassets\\product\\20240709151325220.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709151425022.png",
+      "PackagePath": "staticwebassets\\product\\20240709151425022.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709151443340.png",
+      "PackagePath": "staticwebassets\\product\\20240709151443340.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709151706760.png",
+      "PackagePath": "staticwebassets\\product\\20240709151706760.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709151725075.png",
+      "PackagePath": "staticwebassets\\product\\20240709151725075.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709151808394.png",
+      "PackagePath": "staticwebassets\\product\\20240709151808394.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709151820899.png",
+      "PackagePath": "staticwebassets\\product\\20240709151820899.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709152617535.png",
+      "PackagePath": "staticwebassets\\product\\20240709152617535.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709152648963.png",
+      "PackagePath": "staticwebassets\\product\\20240709152648963.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709152933692.png",
+      "PackagePath": "staticwebassets\\product\\20240709152933692.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709152945326.png",
+      "PackagePath": "staticwebassets\\product\\20240709152945326.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709153337875.png",
+      "PackagePath": "staticwebassets\\product\\20240709153337875.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709160639847.png",
+      "PackagePath": "staticwebassets\\product\\20240709160639847.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709160800798.png",
+      "PackagePath": "staticwebassets\\product\\20240709160800798.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709160811124.png",
+      "PackagePath": "staticwebassets\\product\\20240709160811124.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709163713439.png",
+      "PackagePath": "staticwebassets\\product\\20240709163713439.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709163758530.png",
+      "PackagePath": "staticwebassets\\product\\20240709163758530.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240709163822223.png",
+      "PackagePath": "staticwebassets\\product\\20240709163822223.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240720221950372.png",
+      "PackagePath": "staticwebassets\\product\\20240720221950372.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240722135307883.jpeg",
+      "PackagePath": "staticwebassets\\product\\20240722135307883.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724182010760.png",
+      "PackagePath": "staticwebassets\\product\\20240724182010760.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724182043214.png",
+      "PackagePath": "staticwebassets\\product\\20240724182043214.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724183001535.png",
+      "PackagePath": "staticwebassets\\product\\20240724183001535.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724183022508.png",
+      "PackagePath": "staticwebassets\\product\\20240724183022508.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724183042516.png",
+      "PackagePath": "staticwebassets\\product\\20240724183042516.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724183107476.png",
+      "PackagePath": "staticwebassets\\product\\20240724183107476.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724184657865.png",
+      "PackagePath": "staticwebassets\\product\\20240724184657865.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724184719625.png",
+      "PackagePath": "staticwebassets\\product\\20240724184719625.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724184739362.png",
+      "PackagePath": "staticwebassets\\product\\20240724184739362.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724184851262.png",
+      "PackagePath": "staticwebassets\\product\\20240724184851262.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724184913160.png",
+      "PackagePath": "staticwebassets\\product\\20240724184913160.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724184931167.png",
+      "PackagePath": "staticwebassets\\product\\20240724184931167.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724185122940.png",
+      "PackagePath": "staticwebassets\\product\\20240724185122940.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724185138259.png",
+      "PackagePath": "staticwebassets\\product\\20240724185138259.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724185153394.png",
+      "PackagePath": "staticwebassets\\product\\20240724185153394.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724185208634.png",
+      "PackagePath": "staticwebassets\\product\\20240724185208634.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724185228734.png",
+      "PackagePath": "staticwebassets\\product\\20240724185228734.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724185241891.png",
+      "PackagePath": "staticwebassets\\product\\20240724185241891.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190015080.png",
+      "PackagePath": "staticwebassets\\product\\20240724190015080.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190159025.png",
+      "PackagePath": "staticwebassets\\product\\20240724190159025.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190320151.jpeg",
+      "PackagePath": "staticwebassets\\product\\20240724190320151.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190416304.png",
+      "PackagePath": "staticwebassets\\product\\20240724190416304.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190441049.png",
+      "PackagePath": "staticwebassets\\product\\20240724190441049.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190458197.png",
+      "PackagePath": "staticwebassets\\product\\20240724190458197.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190536716.png",
+      "PackagePath": "staticwebassets\\product\\20240724190536716.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190719956.png",
+      "PackagePath": "staticwebassets\\product\\20240724190719956.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190733366.png",
+      "PackagePath": "staticwebassets\\product\\20240724190733366.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190753779.png",
+      "PackagePath": "staticwebassets\\product\\20240724190753779.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190810425.png",
+      "PackagePath": "staticwebassets\\product\\20240724190810425.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724190826267.png",
+      "PackagePath": "staticwebassets\\product\\20240724190826267.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724192825359.png",
+      "PackagePath": "staticwebassets\\product\\20240724192825359.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724192857093.png",
+      "PackagePath": "staticwebassets\\product\\20240724192857093.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724193015055.png",
+      "PackagePath": "staticwebassets\\product\\20240724193015055.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724193042138.png",
+      "PackagePath": "staticwebassets\\product\\20240724193042138.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724194750031.png",
+      "PackagePath": "staticwebassets\\product\\20240724194750031.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724194805842.png",
+      "PackagePath": "staticwebassets\\product\\20240724194805842.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724194954926.png",
+      "PackagePath": "staticwebassets\\product\\20240724194954926.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240724195016839.png",
+      "PackagePath": "staticwebassets\\product\\20240724195016839.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731223404606.png",
+      "PackagePath": "staticwebassets\\product\\20240731223404606.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731225214410.png",
+      "PackagePath": "staticwebassets\\product\\20240731225214410.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731225238841.png",
+      "PackagePath": "staticwebassets\\product\\20240731225238841.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731225256801.png",
+      "PackagePath": "staticwebassets\\product\\20240731225256801.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230351527.png",
+      "PackagePath": "staticwebassets\\product\\20240731230351527.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230409510.png",
+      "PackagePath": "staticwebassets\\product\\20240731230409510.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230532142.png",
+      "PackagePath": "staticwebassets\\product\\20240731230532142.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230551879.png",
+      "PackagePath": "staticwebassets\\product\\20240731230551879.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230608972.png",
+      "PackagePath": "staticwebassets\\product\\20240731230608972.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230639133.png",
+      "PackagePath": "staticwebassets\\product\\20240731230639133.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230701588.png",
+      "PackagePath": "staticwebassets\\product\\20240731230701588.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230720927.png",
+      "PackagePath": "staticwebassets\\product\\20240731230720927.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230751638.png",
+      "PackagePath": "staticwebassets\\product\\20240731230751638.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230803098.png",
+      "PackagePath": "staticwebassets\\product\\20240731230803098.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230817609.png",
+      "PackagePath": "staticwebassets\\product\\20240731230817609.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230831747.png",
+      "PackagePath": "staticwebassets\\product\\20240731230831747.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230846063.png",
+      "PackagePath": "staticwebassets\\product\\20240731230846063.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230904016.png",
+      "PackagePath": "staticwebassets\\product\\20240731230904016.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230942545.png",
+      "PackagePath": "staticwebassets\\product\\20240731230942545.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731230954619.png",
+      "PackagePath": "staticwebassets\\product\\20240731230954619.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231009642.png",
+      "PackagePath": "staticwebassets\\product\\20240731231009642.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231023660.png",
+      "PackagePath": "staticwebassets\\product\\20240731231023660.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231039939.png",
+      "PackagePath": "staticwebassets\\product\\20240731231039939.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231101389.png",
+      "PackagePath": "staticwebassets\\product\\20240731231101389.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231136835.png",
+      "PackagePath": "staticwebassets\\product\\20240731231136835.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231204766.png",
+      "PackagePath": "staticwebassets\\product\\20240731231204766.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231216752.png",
+      "PackagePath": "staticwebassets\\product\\20240731231216752.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231230381.png",
+      "PackagePath": "staticwebassets\\product\\20240731231230381.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231244606.png",
+      "PackagePath": "staticwebassets\\product\\20240731231244606.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231257384.png",
+      "PackagePath": "staticwebassets\\product\\20240731231257384.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231345474.png",
+      "PackagePath": "staticwebassets\\product\\20240731231345474.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231541210.png",
+      "PackagePath": "staticwebassets\\product\\20240731231541210.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231556080.png",
+      "PackagePath": "staticwebassets\\product\\20240731231556080.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231614989.png",
+      "PackagePath": "staticwebassets\\product\\20240731231614989.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231631334.png",
+      "PackagePath": "staticwebassets\\product\\20240731231631334.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231643136.png",
+      "PackagePath": "staticwebassets\\product\\20240731231643136.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231656563.png",
+      "PackagePath": "staticwebassets\\product\\20240731231656563.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231711588.png",
+      "PackagePath": "staticwebassets\\product\\20240731231711588.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231724407.png",
+      "PackagePath": "staticwebassets\\product\\20240731231724407.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231737078.png",
+      "PackagePath": "staticwebassets\\product\\20240731231737078.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231749250.png",
+      "PackagePath": "staticwebassets\\product\\20240731231749250.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231800094.png",
+      "PackagePath": "staticwebassets\\product\\20240731231800094.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231815264.png",
+      "PackagePath": "staticwebassets\\product\\20240731231815264.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231835406.png",
+      "PackagePath": "staticwebassets\\product\\20240731231835406.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231903388.png",
+      "PackagePath": "staticwebassets\\product\\20240731231903388.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231916414.png",
+      "PackagePath": "staticwebassets\\product\\20240731231916414.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231932558.png",
+      "PackagePath": "staticwebassets\\product\\20240731231932558.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731231949834.png",
+      "PackagePath": "staticwebassets\\product\\20240731231949834.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731232004339.png",
+      "PackagePath": "staticwebassets\\product\\20240731232004339.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731232017385.png",
+      "PackagePath": "staticwebassets\\product\\20240731232017385.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731232200112.png",
+      "PackagePath": "staticwebassets\\product\\20240731232200112.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731232217059.png",
+      "PackagePath": "staticwebassets\\product\\20240731232217059.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731232224839.png",
+      "PackagePath": "staticwebassets\\product\\20240731232224839.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731232234234.png",
+      "PackagePath": "staticwebassets\\product\\20240731232234234.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731232243267.png",
+      "PackagePath": "staticwebassets\\product\\20240731232243267.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731232921220.png",
+      "PackagePath": "staticwebassets\\product\\20240731232921220.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731233632996.png",
+      "PackagePath": "staticwebassets\\product\\20240731233632996.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731233643835.png",
+      "PackagePath": "staticwebassets\\product\\20240731233643835.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731233652395.png",
+      "PackagePath": "staticwebassets\\product\\20240731233652395.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731233700474.png",
+      "PackagePath": "staticwebassets\\product\\20240731233700474.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731233708544.png",
+      "PackagePath": "staticwebassets\\product\\20240731233708544.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731233721651.png",
+      "PackagePath": "staticwebassets\\product\\20240731233721651.png"
+    },
+    {
+      "Id": "C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\GroupB_Luxe\\wwwroot\\product\\20240731233729772.png",
+      "PackagePath": "staticwebassets\\product\\20240731233729772.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.INFT3050.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.INFT3050.props",
+      "PackagePath": "build\\INFT3050.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.INFT3050.props",
+      "PackagePath": "buildMultiTargeting\\INFT3050.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.INFT3050.props",
+      "PackagePath": "buildTransitive\\INFT3050.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
